@@ -1,5 +1,7 @@
 # Seu projeto
 
+Veja [Servidor de arquivos](https://github.com/FNakano/CFA/blob/master/projetos/ServidorDeArquivos/README.md) como exemplo de projeto, relatório e diário completos, e [Funcionalidades Recorrentes](https://github.com/FNakano/CFA/tree/master/projetos/FuncionalidadesRecorrentes) para uma proposta completa com relatório incompleto (em 2020-10-07).
+
 ## Introdução (parte já foi feita no plano de atividades ou na proposta)
 
 ### ~~Contextualização (o que se sabe) e Motivação (por que se quer)~~ feito na proposta
