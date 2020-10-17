@@ -1,12 +1,9 @@
-<!--- 1. Título --->
+# Título
 
-# Implementação de Funcionalidades Recorrentes - Proposta
+O texto não precisa ser longo, nem usar linguagem sofisticada/rebuscada.
 
-## Objetivo geral (O que fazer)
-
+## Objetivos Gerais (O que fazer)
 ## Motivação (Por que fazer: Relevância, experiência, conhecimento acumulado, motivação pessoal,...)
-
 ## Caso seja parte de uma sequência/cadeia/rede, quais relações com as outras atividades/elos são conhecidas.
-
 ## Referências
 

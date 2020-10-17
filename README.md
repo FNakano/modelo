@@ -1,36 +1,26 @@
-# Seu projeto
+# Título
 
-Veja [Servidor de arquivos](https://github.com/FNakano/CFA/blob/master/projetos/ServidorDeArquivos/README.md) como exemplo de projeto, relatório e diário completos, e [Funcionalidades Recorrentes](https://github.com/FNakano/CFA/tree/master/projetos/FuncionalidadesRecorrentes) para uma proposta completa com relatório incompleto (em 2020-10-07).
+O texto não precisa ser longo, nem usar linguagem sofisticada/rebuscada.
 
-## Introdução (parte já foi feita no plano de atividades ou na proposta)
-
-### ~~Contextualização (o que se sabe) e Motivação (por que se quer)~~ feito na proposta
-
-### Revisão Bibliográfica (informação que foi encontrada durante a execução do plano)
-
+## Introdução (parte já foi feita na proposta)
+### Contextualização (o que se sabe) e Motivação (por que se quer)  (desnecessário, se for o mesmo da proposta)
+### Revisão Bibliográfica (informação que foi encontrada durante a execução)
 #### Conceitos e Terminologia (glossário)
-
-### Organização do relatório
-
-## Objetivos específicos (O geral foi feito no plano de atividades ou na proposta)
-
-## Materiais e Métodos ( quais são os ingredientes e o que fazer com eles para chegar nos resultados)
-
-## Resultados e indicadores de avaliação (resultados dos testes dos entregáveis)
-
-
-### Entregáveis previstos
-
-
+### Organização do relatório (links, please)
+## Objetivos (os gerais foram escritos na proposta, os específicos podem ser acrescentados)
+## Materiais e Métodos ( quais são os ingredientes e o que fazer com eles para chegar nos resultados - esta parte precisa ser bem detalhada)
+## Resultados e indicadores de avaliação (resultados dos testes dos entregáveis - cada resultado como uma subseção, para facilitar links para o resultado específico - esta parte precisa ser bem detalhada)
+### Entregáveis previstos (há informação adicional, dependendo do tipo de entregável)
 ### Entregáveis não previstos (soluções para problemas colaterais)
-
-
 ## Discussão e Conclusão
-
-
+### Consequências lógicas dos resultados (resultados deduzidos);
+### Dificuldades que levaram às soluções colaterais
+### Especulações/questionamentos a partir dos resultados (resultados induzidos);
+### Desdobramentos possíveis (próximos passos, possibilidades, *spin-offs*);
 ## Referências
 
-[proposta do projeto](./proposta.md)
+[Proposta](proposta.md)
 
-[diário do projeto](./diario.md)
+[Diário](diario.md)
+
 
