@@ -44,6 +44,7 @@ Diagramas feitos usando [mermaid live editor](https://mermaid-js.github.io/merma
 
 ![GANTT 2](mermaid-diagram-20210612223049.png)
 
+Cronograma da proposta de projeto PUB-2021: Sensores e web semântica com aplicação em conforto térmico.
 
 ```
 gantt
@@ -106,6 +107,7 @@ gantt
 
 ![Diagrama de Comunicação](botao.svg)
 
+Fonte do diagrama: https://github.com/FNakano/CFA/tree/master/projetos/ExtensorComBotao
 
 ```
 sequenceDiagram
