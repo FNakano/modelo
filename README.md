@@ -1,6 +1,7 @@
 # Título
 
-O texto não precisa ser longo, nem usar linguagem sofisticada/rebuscada.
+O texto não precisa ser longo, nem usar linguagem sofisticada/rebuscada. Se for desenvolvido incrementalmente e, a versão adequada, salva, com o nome adequado, resulta na proposta e nos relatórios.
+ 
 No Github, toda seção (linha prefixada com um ou mais hashtags) é uma marca que pode ser referenciada. Como nem todo caracter pode ser usado em um link, caracteres acentuados, espaços, letras maiúsculas são trocados, como no exemplo abaixo: 
 
 ```
