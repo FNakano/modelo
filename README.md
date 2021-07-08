@@ -24,7 +24,7 @@ Lista de materiais (porcas, parafusos, fios - elementos que, na quantidade utili
 
 | Nome | quantidade | preço | exemplo de site ofertando | link para foto do componente utilizado |
 | --- | --- | --- | --- | --- |
-| ESP32-WROOM | 1 | 52,50 | https://www.curtocircuito.com.br/catalog/product/view/id/1006/s/placa-doit-esp32-esp-wroom-32-wifi-bluetooth/ | 20210708_102001.jpg |
+| ESP32-WROOM | 1 | 52,50 | https://www.curtocircuito.com.br/catalog/product/view/id/1006/s/placa-doit-esp32-esp-wroom-32-wifi-bluetooth/ | [20210708_102001.jpg](20210708_102001.jpg) |
 
 Lista de programas usados
 
