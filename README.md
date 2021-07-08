@@ -1,7 +1,7 @@
 # Título
 
 O texto não precisa ser longo, nem usar linguagem sofisticada/rebuscada.
-No git, toda seção (linha prefixada com um ou mais hashtags) é uma marca que pode ser referenciada. Como nem todo caracter pode ser usado em um link, caracteres acentuados, espaços, letras maiúsculas são trocados, como no exemplo abaixo: 
+No Github, toda seção (linha prefixada com um ou mais hashtags) é uma marca que pode ser referenciada. Como nem todo caracter pode ser usado em um link, caracteres acentuados, espaços, letras maiúsculas são trocados, como no exemplo abaixo: 
 
 ```
 https://github.com/FNakano/modelo#resultados-e-indicadores-de-avalia%C3%A7%C3%A3o-resultados-dos-testes-dos-entreg%C3%A1veis---cada-resultado-como-uma-subse%C3%A7%C3%A3o-para-facilitar-links-para-o-resultado-espec%C3%ADfico---esta-parte-precisa-ser-bem-detalhada
@@ -24,18 +24,20 @@ Lista de materiais (porcas, parafusos, fios - elementos que, na quantidade utili
 
 | Nome | quantidade | preço | exemplo de site ofertando | link para foto do componente utilizado |
 | --- | --- | --- | --- | --- |
+| ESP32-WROOM | 1 | 52,50 | https://www.curtocircuito.com.br/catalog/product/view/id/1006/s/placa-doit-esp32-esp-wroom-32-wifi-bluetooth/ | 20210708_102001.jpg |
 
 Lista de programas usados
 
 | Nome | site do fornecedor | licença usada | valor pago |
 | --- | --- | --- | --- |
+| mermaid | https://mermaid-js.github.io/mermaid/#/ | gratuita | zero |
 
 
 ## Resultados e indicadores de avaliação (resultados dos testes dos entregáveis - cada resultado como uma subseção, para facilitar links para o resultado específico - esta parte precisa ser bem detalhada)
 
 ### Cronograma de atividades e entregáveis previstos  (ex. ferramenta: mermaid)
 
-A idéia é dimensionar esforço e resultado para que possa ser feito durante a disciplina. Imprevistos acontecem, são aceitáveis até certo ponto. Neste caso, justificar, ajustar e seguir. Se chegar ao ponto em que só for possível cobrar cumprimento de cronograma, é porque todas as outras alternativas de orientação foram tentadas e não surtiram resultado.
+A idéia é dimensionar esforço e resultado para que possa ser feito durante a disciplina. Imprevistos acontecem, são aceitáveis até certo ponto. Neste caso, justificar, ajustar e seguir. Se chegar ao ponto em que só for possível cobrar cumprimento de cronograma, é porque todas as outras alternativas de orientação foram tentadas e não levaram ao efeito desejado.
 
 Diagramas feitos usando [mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor).
 
